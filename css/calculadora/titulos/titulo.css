@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.titulo {
+    color: #fcfcfc;
+    font-weight: bold;
+    margin: 2rem;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+}

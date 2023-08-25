@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.calculadora_container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 11rem;
+}
+
+.calculadora_moldura {
+    background-image: linear-gradient(to top, black, grey);
+    border-radius: 30px;
+    height: 400px;
+    width: 250px;
+}
+
+#resultado {
+    background-color: #fcfcfc;
+    border-radius: 10px;
+    height: 25px;
+    margin: auto;
+    padding: 12px 12px 5px 14px;
+    text-align: right;
+    width: 190px;
+}
+

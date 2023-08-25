@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.cal_titulo {
+    background-image: linear-gradient(to bottom, black, rgba(128, 128, 128, 0.521));
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    color: #fcfcfc;
+    padding: 1rem;
+    text-align: center;
+    text-shadow: 2px 2px 1px black;
+}

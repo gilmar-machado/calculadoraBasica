@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.copy {
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15%;
+    text-shadow: 2px 2px 1px black;
+    text-transform: uppercase;
+}
